@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Tests for elm-crypto-aes.",
-    "repository": "https://github.com/billstclair/elm-crypto-aes.git",
+    "summary": "Tests for elm-package-template.",
+    "repository": "https://github.com/billstclair/elm-package-template.git",
     "license": "MIT",
     "source-directories": [
         ".",
@@ -9,9 +9,7 @@
     ],
     "exposed-modules": [],
     "dependencies": {
-        "billstclair/elm-bitwise-infix": "1.0.2 <= v < 2.0.0",
         "elm-community/elm-test": "4.1.1 <= v < 5.0.0",
-        "elm-community/list-extra": "6.1.0 <= v < 7.0.0",
         "elm-lang/core": "5.1.1 <= v < 6.0.0",
         "elm-lang/html": "2.0.0 <= v < 3.0.0"
     },

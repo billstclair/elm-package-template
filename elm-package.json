@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.0",
     "summary": "elm-package-template is a template for new package creation.",
     "repository": "https://github.com/billstclair/elm-package-template.git",
     "license": "MIT",
